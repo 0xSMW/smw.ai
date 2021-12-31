@@ -26,10 +26,9 @@ which templates loop over to generate a list of posts. --}}
             <header class="post-card-header">
                 {{#if primary_tag}}
                     {{#primary_tag}}
-                    <div class="post-card-primary-tag">{{name}}</div>
+                    <div class="post-card-primary-tag">{{name}} <span class="post-card-byline-date"><time datetime="{{date format="YYYY-MM-DD"}}">{{date}}</time> <span class="bull">&bull;</span> {{reading_time}}</span></div>
                     {{/primary_tag}}
                 {{/if}}
-                <span class="post-card-byline-date"><time datetime="{{date format="YYYY-MM-DD"}}">{{date}}</time> <span class="bull">&bull;</span> {{reading_time}}</span>
                 <h2 class="post-card-title">{{title}}</h2>
             </header>
             <div class="post-card-excerpt">
