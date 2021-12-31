@@ -1,6 +1,6 @@
 # SMW.AI
 
-Website running on Ghost. Custom Journal theme.
+Website running on Ghost with a customized Journal theme.
 
 # Copyright & License
 
