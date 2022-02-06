@@ -1,0 +1,10 @@
+<style>
+	.post-card-primary-tag,.article-tag{ text-decoration:none; overflow:hidden; background:linear-gradient(90deg, rgba(153,0,255,1) 0%, rgba(255,41,41,1) 50%, rgba(255,149,0,1) 100%); background-clip: text;
+   -webkit-background-clip: text;
+   -moz-background-clip: text;
+   -moz-text-fill-color: transparent;
+   -webkit-text-fill-color: transparent;}
+	.site-footer { background: #151719; padding:40px 4vmin 40px;}
+	.gh-head-button.gh-portal-close, .gh-head-button.gh-portal-open { background:linear-gradient(90deg, rgba(153,0,255,1) 0%, rgba(255,41,41,1) 50%, rgba(255,149,0,1) 100%);}
+	.read-more-wrap {border-top: 1px solid hsla(0,0%,100%,.1);}
+</style>
