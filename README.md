@@ -1,6 +1,6 @@
 # SMW.AI
 
-Website running on Ghost with a customized Journal theme.
+[Stephen M. Walker II's website](https://smw.ai) running on Ghost with a customized Journal theme.
 
 # Copyright & License
 
